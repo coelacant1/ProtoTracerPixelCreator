@@ -1,5 +1,5 @@
-name = "ProtoDRMini"
-origFileName = "Example Files\ProtoDRV2.csv"
+name = "KaiborgV1Pixels"
+origFileName = "Example Files\KaiborgV1.csv"
 outputFileName = "Output\\" + name + ".h"
 
 with open(origFileName, 'r') as file:
